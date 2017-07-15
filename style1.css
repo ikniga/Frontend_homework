@@ -1,0 +1,16 @@
+h2{
+	width: 100px;
+	color: white;
+	background: red;background-size: 50px;
+}
+
+.one{
+	height: 50px;
+	width: 250px;
+	background: rgba(63, 81, 181, 0.86);
+}
+.two{
+	height: 40px;
+	width: 250px;
+	background: yellow;
+}

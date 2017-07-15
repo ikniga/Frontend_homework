@@ -1,0 +1,18 @@
+div{
+	border: 2px;
+	border-style: dashed;
+	padding: 7px;
+	width: 300px;
+}
+span{
+	font-style: italic;
+}
+.italic{
+	font-style: italic;
+}
+sub{
+	color: blue;
+}
+sup{
+	color: red;
+}
